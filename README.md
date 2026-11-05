@@ -84,10 +84,6 @@ taskmate/
 └── client/     React app (Vite)
 ```
 
-## Git workflow
-
-Work was done on feature branches (`feature/auth`, `feature/tasks-api`, `feature/ui`, …) with regular commits, merged into `main`.
-
 ## Author
 
 Alexandra Trifut, [github.com/alexandrat2006](https://github.com/alexandrat2006)
